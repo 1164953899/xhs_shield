@@ -9,8 +9,7 @@ url + params + xy-common-params + xy-direction + xy-platform-info
 
 post请求：
 url + xy-common-params + xy-direction + xy-platform-info + data
-
-<img width="939" alt="截屏2025-06-03 14 53 45" src="https://github.com/user-attachments/assets/8497cdf5-81f8-4b47-a591-958163ec9cfd" />
+<img width="939" alt="截屏2025-06-03 14 53 45" src="https://github.com/user-attachments/assets/2c1d4d01-f4d0-4548-b0e3-0f7a10e46813" />
 q:MTE2NDk1Mzg5OQ==（BASE64） 白菜价
 
 注意：仅供学习参考，严禁用于违法用途。
